@@ -48,3 +48,6 @@ temp/
 *.local
 
 .pub
+
+#pyteset cache
+__pycache__/
