@@ -47,3 +47,4 @@ class TestDivide:
     def test_divide_by_zero_raises(self):
         with pytest.raises(ValueError):
             divide(5, 0)
+            divide(-5, 0)
